@@ -4,4 +4,6 @@
     <string name="age">AGE</string>
     <string name="in_minutes_text">IN MINUTES</string>
     <string name="select_date_text">SELECT DATE</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="age_in_minutes">AGE IN MINUTES</string>
 </resources>
